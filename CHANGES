@@ -1,3 +1,4 @@
+v0.1.14:    Updated doc string.
 v0.1.13:    Made sigs use payload search only.
 v0.1.12:    Added &is_used to signature matching function to make warnings go away.
 v0.1.11:    Fixed typo in code's comments.
